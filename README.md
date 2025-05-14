@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Detection using CNNs with MirroredStrategy
+# Diabetic Retinopathy Detection using CNNs and Transfer learning
 
 Diabetic Retinopathy (DR) is one of the most common complications of diabetes and a leading cause of preventable blindness in working-age adults worldwide. It occurs when high blood sugar levels damage the small blood vessels in the retina — the light-sensitive layer at the back of the eye. This damage can cause the blood vessels to leak, swell, or close off entirely, leading to vision problems and eventually blindness if left untreated.
 
