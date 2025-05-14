@@ -13,3 +13,11 @@ By automating the detection of diabetic retinopathy from fundus images, this pro
 
 🌍 Accessibility: Supports DR screening in underserved or remote areas where specialists are limited.
 
+Dataset Source
+The dataset used in this project is from the [Diabetic Retinopathy Detection competition on Kaggle]. The images were provided by EyePACS for the purpose of developing automated methods to identify signs of diabetic retinopathy in retinal images.
+
+Kaggle Competition: Diabetic Retinopathy Detection
+
+URL: https://www.kaggle.com/competitions/diabetic-retinopathy-detection
+
+Acknowledgement: Retinal images provided by EyePACS, sponsored by the California Healthcare Foundation. For more details, you might check out this useful link: https://paperswithcode.com/dataset/kaggle-eyepacs
